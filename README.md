@@ -21,8 +21,8 @@ In terms of media support, the app uses the Google Drive API to download any med
 - Spring Framework,
 - Spring Security,
 - Lombok,
-- JPA,
-- CORS,
+- Jpa,
+- Cors,
 - Rest API architecture,
 - Google Drive API,
 - MySQL/Workbench,
@@ -31,7 +31,7 @@ In terms of media support, the app uses the Google Drive API to download any med
 - Next.js,
 - Tailwind CSS.
 
-## Application Screenshots
+## Application Screenshots:
 
 ### Screenshot 1
 <img src="images/z1.png" width="75%">
