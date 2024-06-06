@@ -10,6 +10,7 @@ Full Webstack Application created as an e-commerce store managing the sale of Ma
 All processes take place through communication between the server and the presentation layer. All orders details are saved in the database for registered users and those placing orders without registration. The presentation UI responds dynamically to changes made by the user. During the ordering, login or registration process, user data is validated and the UI reacts to everything dynamically.
 
 In terms of media support, the app uses the Google Drive API to download any media in .png format located in my Google Drive. This way, all media is stored in the cloud rather than locally on disk. The database only stores parts of the entire URL for downloading media via a given fileName or file_ID.
+
 Technologies used:
 
 - IntellliJ Idea,
