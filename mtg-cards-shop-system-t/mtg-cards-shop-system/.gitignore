@@ -1,0 +1,55 @@
+# Ignore Maven target directory
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Ignore Maven wrapper jar file
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore generated files from IDEs
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+# Ignore build directories
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

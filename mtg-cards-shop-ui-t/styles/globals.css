@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Silkscreen:wght@400;700&display=swap'); */
+
+
+.silkscreen-regular {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+
+
+.silkscreen-bold {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+ 
+}
+
+.custom-border {
+  border-bottom-width: 4.75px;  
+}
+
+.topbar-bg-navy {
+    background-color: #0d1c2f;
+  }
+
+  .navbar-bg-yellow {
+    background-color: #f9c500;
+  }
+
+  .topbar-text-yellow {
+    color: #f9c500;
+  }
+
+  .navbar-text-navy {
+    color: #0d1c2f;
+  }
+
+  .custom-width-79 {
+    width: 79%;
+  
+  }
+
+  .custom-line {
+    height: 115%;
+  }
+
+  .logged-in-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: green;
+    display: inline-block;
+    margin-left: 10px;
+  }
+
+  /* p {
+    border: 1px solid red; 
+  }
+
+  Image {
+    border: 1px solid green; 
+  }  */
+
+  
