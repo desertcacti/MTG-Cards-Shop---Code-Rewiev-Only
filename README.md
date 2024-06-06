@@ -32,3 +32,16 @@ Technologies used:
 - Tailwind CSS.
 
 More info soon! Also in moment I will upload some application pictures.
+
+## Application Screenshots
+
+Here are some screenshots of the application:
+
+### Screenshot 1
+<img src="images/z1.png" width="50%">
+
+### Screenshot 2
+<img src="images/z2.png" width="50%">
+
+### Screenshot 3
+<img src="images/z3.png" width="50%">
