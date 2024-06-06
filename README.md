@@ -15,12 +15,14 @@ Technologies used:
 
 - IntellliJ Idea,
 - Visual Studio Code,
-- Node.js
+- Node.js,
 - Java 17,
 - Maven,
 - Spring Framework,
 - Spring Security,
 - Lombok,
+- JPA,
+- CORS,
 - Rest API architecture,
 - Google Drive API,
 - MySQL/Workbench,
